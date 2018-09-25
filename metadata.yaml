@@ -1,0 +1,42 @@
+_repo: History-of-Lace_57009
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Palliser, Bury, Mrs.
+    aliases:
+    - Palliser, Fanny Marryat
+    - Palliser, Fanny Bury
+    - Palliser, Mrs.
+    - Bury-Palliser, Mrs.
+    birthdate: 1805
+    deathdate: 1878
+    gutenberg_agent_id: '25496'
+    url: http://www.gutenberg.org/2009/agents/25496
+  editors:
+  - agent_name: Dryden, Alice
+    gutenberg_agent_id: '49143'
+    url: http://www.gutenberg.org/2009/agents/49143
+  - agent_name: Jourdain, Margaret
+    aliases:
+    - Jourdain, M.
+    - Elton, John
+    - Jourdain, Emily Margaret
+    deathdate: 1951
+    gutenberg_agent_id: '49142'
+    url: http://www.gutenberg.org/2009/agents/49142
+description: ''
+gutenberg_issued: '2018-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57009'
+  lccn: 02015796
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lace and lace making -- History'
+- !lcc 'NK'
+- GITenberg
+title: History of Lace
+url: http://www.gutenberg.org/ebooks/57009
